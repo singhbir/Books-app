@@ -23,3 +23,7 @@ This Command will Generate Build Folder which is used to Deploy Application
 ### This project is made by react js Library
 
 ### \_redirects ("/public/\_redirects") file is included if you want to host this project on netlify.com (free hosting service)
+
+## Site is Live at
+
+        `https://bookspedia.netlify.app/`

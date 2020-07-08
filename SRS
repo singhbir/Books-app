@@ -1,0 +1,24 @@
+SRS : 
+
+1. Category : This application comes under Web Application
+
+2. Purpose : To solve the problem of reading books and availability of books
+
+3. Scope : Web Application for books(reading , adding , removing)
+
+4. Introduction and Advantages : This Web Application will helps the users to add their books and read various book available online , No need to download big applications
+
+5. Function Requirements : Helps Users  
+	1. to Add a new book 
+	2. to Remove a book
+	3. to Add Book to Fav Section
+	4. to Read Your Fav Books 
+
+6. Software Tools: 
+ Nodejs (https://nodejs.org/en/)
+
+7. Hardware Requirement : Supports Basic Hardware with any OS (Linux,windows,Mac)
+
+8. Deployment : Os server (windows, linux, unix )
+
+
